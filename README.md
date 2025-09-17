@@ -1,5 +1,5 @@
 
-# <img src="" alt="MitoClass logo" height="60" style="vertical-align: middle;"> Mitoclass
+# <img src="https://github.com/malardjules/MitoClass/blob/master/assets/mitoclass.png" alt="MitoClass logo" height="60" style="vertical-align: middle;"> MitoClass
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0.fr.html)
 [![PyPI](https://img.shields.io/pypi/v/mitoclass.svg)](https://pypi.org/project/mitoclass/)
@@ -7,16 +7,16 @@
 [![napari‑hub](https://img.shields.io/badge/napari--hub-mitoclass-orange.svg)](https://www.napari-hub.org/plugins/mitoclass)
 
 <p align="left">
-  <img src="" alt="IMHORPHEN" height="70" style="margin: 0 20px;">
-  <img src="" alt="LARIS" height="70" style="margin: 0 20px;">
-  <img src="" alt="Université d'Angers" height="70" style="margin: 0 20px;">
+  <img src="https://github.com/malardjules/MitoClass/blob/master/assets/imhorphen.png" alt="IMHORPHEN" height="70" style="margin: 0 20px;">
+  <img src="https://github.com/malardjules/MitoClass/blob/master/assets/LARIS.png" alt="LARIS" height="70" style="margin: 0 20px;">
+  <img src="https://github.com/malardjules/MitoClass/blob/master/assets/ua.png" alt="Université d'Angers" height="70" style="margin: 0 20px;">
 </p>
 
 ---
 
 ## 1&nbsp;&nbsp;Overview
 
-**Mitoclass** is a *napari* plugin for the qualitative assessment of mitochondrial network morphology.
+**MitoClass** is a *napari* plugin for the qualitative assessment of mitochondrial network morphology.
 Inference is **patch‑wise**: each 2‑D patch—obtained from a maximum‑intensity projection of 3‑D stacks—is classified as **connected**, **fragmented**, or **intermediate**.
 
 ---
@@ -77,7 +77,7 @@ Download the model (`.h5`) from
 napari
 ```
 
-1. Open **Plugins → Mitoclass**.
+1. Open **Plugins → MitoClass**.
 2. Select the four required paths:
 
    | Field | Purpose |
